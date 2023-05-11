@@ -1,4 +1,5 @@
 Technical Assignment Task:
+
 Build a simple application which provides web services to facilitate group chat and manage data.
 Admin APIs (only admin can add users)
 - Manage Users (create user, edit user)
@@ -11,3 +12,7 @@ Group Messages (Normal User)
 - Likes message, etc
 Build simple e2e functional tests with python to prove APIs are working. Requirements
 – Use database of your choice# assignment
+
+For execution run: 
+1.) python app.py
+2.) for checking test case run python test_api.py
